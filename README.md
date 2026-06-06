@@ -9,6 +9,7 @@ Este projeto foi desenvolvido como parte do Trabalho 2 da disciplina Engenharia 
 O sistema simula a dinâmica do jogo Pique-Esconde, modelado e implementado seguindo o padrão arquitetural BCE (Boundary, Control, Entity). O projeto contempla três fluxos de jogo: principal, alternativo e de exceção.
 
 🗂️ Estrutura do projeto
+
 pique_esconde/
 ├── main.py                  # Executa os três fluxos do jogo
 ├── entidade/
